@@ -1,0 +1,22 @@
+{
+  "name": "async-promises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js --live"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonasmomo/async-promises.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonasmomo/async-promises/issues"
+  },
+  "homepage": "https://github.com/jonasmomo/async-promises#readme",
+  "devDependencies": {
+    "budo": "^10.0.3"
+  }
+}
